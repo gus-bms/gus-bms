@@ -1,5 +1,5 @@
 <div align=center>
-<h1>👐Thank you for visit here👐<h1>
+<h1>👐Thank you for visit here👐</h1>
 </div>
 <p>* 👋 안녕하세요 2년차 주니어 웹 개발자 박 규범 입니다.</p>
 <p>* 👀 저는 프론트 웹 개발에 관심을 갖고 있습니다.</p>
