@@ -45,10 +45,5 @@
 <br><br><br><br>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gus-bms&hide=contribs,prs&card_width=350)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gus-bms&layout=compact&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 
 
